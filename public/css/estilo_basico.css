@@ -215,8 +215,8 @@ button:hover {
 .table{
 
     margin-left: 200px;
-  margin-right:200px;
-  text-align: center;
+    margin-right:200px;
+    text-align: center;
 
   }
   .table-responsive{
@@ -235,13 +235,11 @@ button:hover {
 
   }
   .cadastrar{
-      margin-left: auto;
-margin-right: auto;
-      text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
     margin-top: 30px;
     max-width: 500px;
-
-
   }
 
 
