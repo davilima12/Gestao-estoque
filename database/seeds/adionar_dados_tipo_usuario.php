@@ -2,6 +2,7 @@
 
 use Illuminate\Database\Seeder;
 use Illuminate\Support\Facades\DB;
+use App\TipoUsuario;
 
 class adionar_dados_tipo_usuario extends Seeder
 {
@@ -12,13 +13,15 @@ class adionar_dados_tipo_usuario extends Seeder
      */
     public function run()
     {
-        DB::table('tipo_usuario')->insert([
-            'tipo'=>'empresa',
+        TipoUsuario::create([
+            'id' => TipoUsuario::TIPO_EMPRESA_ID,
+            'tipo' => TipoUsuario::TIPO_EMPRESA,
 
         ]);
 
-        DB::table('tipo_usuario')->insert([
-            'tipo'=>'funcionario',
+        TipoUsuario::create([
+            'id' =>TipoUsuario::TIPO_FUNCIONARIO_ID,
+            'tipo' => TipoUsuario::TIPO_FUNCIONARIO,
         ]);
 
     }

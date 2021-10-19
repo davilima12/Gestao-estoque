@@ -4,6 +4,7 @@ namespace App\Http\Controllers;
 use Illuminate\Support\Facades\DB;
 use Illuminate\Http\Request;
 use App\Usuario;
+use App\TipoUsuario;
 
 class CreateAccount extends Controller
 {
@@ -51,7 +52,7 @@ class CreateAccount extends Controller
             $usuario->nome=$request->get('nome');
             $usuario->email = $request->get('email');
             $usuario->senha = $request->get('senha');
-            $usuario->tipo_usuario_id = '1';
+            $usuario->tipo_usuario_id = TipoUsuario::TIPO_EMPRESA_ID;
             $usuario->save();
 
 

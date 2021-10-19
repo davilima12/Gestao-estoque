@@ -5,6 +5,7 @@ namespace App\Http\Controllers;
 use Illuminate\Http\Request;
 use App\Usuario;
 use App\Http\Services\UsuarioService;
+use App\TipoUsuario;
 
 
 
@@ -55,7 +56,7 @@ class CadastrarFuncionarController extends Controller
                     $usuario-> nome = $request->get('nome');
                     $usuario-> email = $request->get('email');
                     $usuario-> senha = $request->get('senha');
-                    $usuario-> tipo_usuario_id = '2';
+                    $usuario-> tipo_usuario_id = TipoUsuario::TIPO_FUNCIONARIO_ID;
                     $usuario-> empresa_id =($_SESSION['id']);
 
                     $usuario->save();
