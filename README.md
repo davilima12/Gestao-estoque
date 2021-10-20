@@ -40,6 +40,15 @@
 </div>
 
 
+
+
+## Quando Tentamos Enviar Dados Em Branco No Cadastro
+
+<div>
+    <img src="https://user-images.githubusercontent.com/89710467/138168211-f739a5e1-9893-46f4-9f97-5f2721b92fcb.png" />
+</div>
+
+
 ## Aki A empresa Ja Esta Logada Com Sua Conta Que criou na pagina inicial
 
 <div>
