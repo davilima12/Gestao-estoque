@@ -96,10 +96,10 @@
     <img src="https://user-images.githubusercontent.com/89710467/138170753-67f9a17d-bf64-403d-a093-6734a0bc687e.png" />
 </div>
 
-## Como Estamos Logados Numa Conta Empresa Deletamos O Úsuario Lucas
+## Aki Logamos Uma Conta De Um Funcionario E Tentamos Cadastrar Outro Funcionario
 
 <div>
-    <img src="https://user-images.githubusercontent.com/89710467/138168870-27f4ef47-27ff-431f-aabe-33272d5358bc.png" />
+    <img src="https://user-images.githubusercontent.com/89710467/138171221-38947582-c5c6-4551-b28d-f8e9b8684333.png" />
 </div>
 
 
