@@ -33,10 +33,10 @@
 </div>
 
 
-## Esse Eo Inicio Do Sistema De Gestão
+## Quando Tentamos Criar Uma Conta Mais Esse Nome Ou E-mail Já Enxiste No Nosso Banco De Dados
 
 <div>
-    <img src="https://user-images.githubusercontent.com/89710467/138160382-006142d8-90d1-4334-9a5b-44d558b3eba3.png" />
+    <img src="https://user-images.githubusercontent.com/89710467/138167858-a558ea43-5014-4f58-bbf5-d0e479261a27.png" />
 </div>
 
 
