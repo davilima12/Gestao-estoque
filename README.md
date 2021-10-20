@@ -63,10 +63,10 @@
 
 
 
-## Esse Eo Inicio Do Sistema De Gestão
+## Aki Temos A Pagina De Edição De Usuario Onde Sómente Uma Empresa Pode Editar Os Funcionarios Ou O Proprio Funcionario Pode Editar Seus Dados Os Outros Funcionarios Não Pode Editar Os Outros
 
 <div>
-    <img src="https://user-images.githubusercontent.com/89710467/138160382-006142d8-90d1-4334-9a5b-44d558b3eba3.png" />
+    <img src="https://user-images.githubusercontent.com/89710467/138168555-18a1e7e7-de9b-4a8f-a1f9-42681af6e5ee.png" />
 </div>
 
 
