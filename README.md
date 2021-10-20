@@ -83,10 +83,10 @@
     <img src="https://user-images.githubusercontent.com/89710467/138170376-4b42ad4a-dd87-42ce-a0b3-3fd39dae0889.png" />
 </div>
 
-## Como Estamos Logados Numa Conta Empresa Deletamos O Úsuario Lucas
+## Aki Tem A Parte De Edição Dos Produtos
 
 <div>
-    <img src="https://user-images.githubusercontent.com/89710467/138168870-27f4ef47-27ff-431f-aabe-33272d5358bc.png" />
+    <img src="https://user-images.githubusercontent.com/89710467/138170578-df0057fe-7332-4623-8642-32fd7732a1fe.png" />
 </div>
 
 
