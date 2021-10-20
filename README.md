@@ -109,16 +109,16 @@
     <img src="https://user-images.githubusercontent.com/89710467/138171880-200d0ed1-408a-4726-8ef8-9bf270c1ad45.png" />
 </div>
 
-## Aki Temos A Parte De Cadastrar Os Produtos
+## Clicando Ali Em Deslogar Saimos Da Conta E Retomamos A Pagina Inicial
 
 <div>
-    <img src="https://user-images.githubusercontent.com/89710467/138171880-200d0ed1-408a-4726-8ef8-9bf270c1ad45.png" />
+    <img src="https://user-images.githubusercontent.com/89710467/138172091-92d7b746-a082-4b87-b071-b0bc1ffba14c.png" />
 </div>
 
-## Aki Temos A Parte De Cadastrar Os Produtos
+## Voltamos Pra Ca Depois De Deslogar
 
 <div>
-    <img src="https://user-images.githubusercontent.com/89710467/138171880-200d0ed1-408a-4726-8ef8-9bf270c1ad45.png" />
+    <img src="https://user-images.githubusercontent.com/89710467/138163721-3bcac402-b9bc-43f0-94df-80af8e2c499d.png" />
 </div>
 
 
