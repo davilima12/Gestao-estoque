@@ -4,7 +4,7 @@
 
 <div class="conteudo-pagina">
     <div class="titulo-pagina">
-        <h1>Edição De Usuario</h1>
+        <h1>Edição De Produtos</h1>
     </div>
 
 
