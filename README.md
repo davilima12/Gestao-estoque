@@ -6,14 +6,14 @@
 
 
 
-## Essa Ea Pagina De Login Do Sistema De Gestão
+## Essa E á Pagina De Login Do Sistema De Gestão
 
 <div>
     <img src="https://user-images.githubusercontent.com/89710467/138163721-3bcac402-b9bc-43f0-94df-80af8e2c499d.png" />
 </div>
 
 
-## Essa Ea Pagina De Cadastro
+## Essa E á Pagina De Cadastro
 
 <div>
     <img src="https://user-images.githubusercontent.com/89710467/138163944-eebd4b28-0bab-4658-8525-2953cc8b0482.png" />
@@ -49,13 +49,13 @@
 </div>
 
 
-## Aki A empresa Ja Esta Logada Com Sua Conta Que criou na pagina inicial
+## Aqui A empresa Ja Esta Logada Com Sua Conta Que criou na pagina inicial
 
 <div>
     <img src="https://user-images.githubusercontent.com/89710467/138164468-f13803da-1379-41c2-914f-c2595e1155ef.png" />
 </div>
 
-## Essa e A Parte Dos Usuarios Cadastrados Onde Só a empresa Pode Editar E Deletar Um Funcionario OU O proprio Funcionario Editar Seu Perfil
+## Essa E á Parte Dos Usuarios Cadastrados Onde Só a empresa Pode Editar E Deletar Um Funcionario OU O proprio Funcionario Editar Seu Perfil
 
 <div>
     <img src="https://user-images.githubusercontent.com/89710467/138164827-3645e972-d955-4146-a91e-d2de4b7e7129.png" />
@@ -63,7 +63,7 @@
 
 
 
-## Aki Temos A Pagina De Edição De Usuario Onde Sómente Uma Empresa Pode Editar Os Funcionarios Ou O Proprio Funcionario Pode Editar Seus Dados Os Outros Funcionarios Não Pode Editar Os Outros
+## Aqui Temos A Pagina De Edição De Usuario Onde Sómente Uma Empresa Pode Editar Os Funcionarios Ou O Proprio Funcionario Pode Editar Seus Dados Os Outros Funcionarios Não Pode Editar Os Outros
 
 <div>
     <img src="https://user-images.githubusercontent.com/89710467/138168555-18a1e7e7-de9b-4a8f-a1f9-42681af6e5ee.png" />
@@ -77,33 +77,33 @@
 </div>
 
 
-## AKi Temos A Parte Onde Fica Os Produtos Cadastrados E Podemos Editar E Deletar Os Produtos 
+## Aquu Temos A Parte Onde Fica Os Produtos Cadastrados E Podemos Editar E Deletar Os Produtos 
 
 <div>
     <img src="https://user-images.githubusercontent.com/89710467/138170376-4b42ad4a-dd87-42ce-a0b3-3fd39dae0889.png" />
 </div>
 
-## Aki Tem A Parte De Edição Dos Produtos
+## Aqui Tem A Parte De Edição Dos Produtos
 
 <div>
     <img src="https://user-images.githubusercontent.com/89710467/138170578-df0057fe-7332-4623-8642-32fd7732a1fe.png" />
 </div>
 
 
-## Essa Ea Parte De Cadastrar Um Funcioanario Só Uma Empresa Pode Cadastrar Um Funcionario
+## Essa Eá Parte De Cadastrar Um Funcioanario Só Uma Empresa Pode Cadastrar Um Funcionario
 
 <div>
     <img src="https://user-images.githubusercontent.com/89710467/138170753-67f9a17d-bf64-403d-a093-6734a0bc687e.png" />
 </div>
 
-## Aki Logamos Uma Conta De Um Funcionario E Tentamos Cadastrar Outro Funcionario
+## Aqui Logamos Uma Conta De Um Funcionario E Tentamos Cadastrar Outro Funcionario
 
 <div>
     <img src="https://user-images.githubusercontent.com/89710467/138171731-c44969db-3b34-4ecf-aa6b-75c8bf2e8e1a.png" />
 </div>
 
 
-## Aki Temos A Parte De Cadastrar Os Produtos
+## Aqui Temos A Parte De Cadastrar Os Produtos
 
 <div>
     <img src="https://user-images.githubusercontent.com/89710467/138171880-200d0ed1-408a-4726-8ef8-9bf270c1ad45.png" />
@@ -115,7 +115,7 @@
     <img src="https://user-images.githubusercontent.com/89710467/138172091-92d7b746-a082-4b87-b071-b0bc1ffba14c.png" />
 </div>
 
-## Voltamos Pra Ca Depois De Deslogar
+## Voltamos Pra Cá Depois De Deslogar
 
 <div>
     <img src="https://user-images.githubusercontent.com/89710467/138163721-3bcac402-b9bc-43f0-94df-80af8e2c499d.png" />
