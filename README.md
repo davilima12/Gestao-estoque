@@ -46,7 +46,7 @@
     <img src="https://user-images.githubusercontent.com/89710467/138164468-f13803da-1379-41c2-914f-c2595e1155ef.png" />
 </div>
 
-## Essa e A Parte Dos Usuarios Cadastrados
+## Essa e A Parte Dos Usuarios Cadastrados Onde Só a empresa Pode Editar E Deletar Um Funcionario OU O proprio Funcionario Editar Seu Perfil
 
 <div>
     <img src="https://user-images.githubusercontent.com/89710467/138164827-3645e972-d955-4146-a91e-d2de4b7e7129.png" />
