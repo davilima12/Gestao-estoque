@@ -13,15 +13,15 @@
             @csrf
             {{$errors->has('nome')? $errors->first('nome') : ''}}<br>
 
-            <input type="text" name="nome" placeholder="Nome Do Produto"><br>
+            <input type="text" name="nome" value="{{old('nome')}}" placeholder="Nome Do Produto"><br>
 
             {{$errors->has('preco') ? $errors->first('preco') : ''}}<br>
 
-            <input type="text" name="preco" placeholder="Preço Do Produto"><br>
+            <input type="text" name="preco" value="{{old('preco')}}" placeholder="Preço Do Produto"><br>
 
             {{$errors->has('quantidade') ? $errors ->first('quantidade') : ''}}<br>
 
-            <input type="text" name="quantidade" placeholder="Quantidade" ><br>
+            <input type="text" name="quantidade" value="{{old('quantidade')}}" placeholder="Quantidade" ><br>
 
             <button type="submit">Cadastrar Produto</button>
 

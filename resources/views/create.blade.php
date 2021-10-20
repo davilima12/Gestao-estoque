@@ -32,15 +32,15 @@
             @csrf
             {{$errors->has('nome') ? $errors->first('nome') : ''}}<br>
 
-             <input type="text" name="nome" placeholder="nome"><br>
+             <input type="text" name="nome" value="{{old('nome')}}" placeholder="nome"><br>
 
              {{$errors->has('email') ? $errors->first('email') : ''}}<br>
 
-            <input type="text" name="email" placeholder="E-mail@example.com"><br>
+            <input type="text" name="email" value="{{old('email')}}" placeholder="E-mail@example.com"><br>
 
             {{$errors->has('senha') ? $errors->first('senha'): '' }}<br>
 
-            <input type="password" name="senha" placeholder="*******"><br>
+            <input type="password" name="senha" value="{{old('senha')}}" placeholder="*******"><br>
 
             <button type="submit">Criar Conta</button>
         </form>
