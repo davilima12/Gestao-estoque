@@ -20,10 +20,10 @@
 </div>
 
 
-## Esse Eo Inicio Do Sistema De Gestão
+## Aki A empresa Ja Esta Logada Com Sua Conta Que criou na pagina inicial
 
 <div>
-    <img src="https://user-images.githubusercontent.com/89710467/138160382-006142d8-90d1-4334-9a5b-44d558b3eba3.png" />
+    <img src="https://user-images.githubusercontent.com/89710467/138164468-f13803da-1379-41c2-914f-c2595e1155ef.png" />
 </div>
 
 ## Esse Eo Inicio Do Sistema De Gestão
