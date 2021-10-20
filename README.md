@@ -90,10 +90,10 @@
 </div>
 
 
-## Como Estamos Logados Numa Conta Empresa Deletamos O Úsuario Lucas
+## Essa Ea Parte De Cadastrar Um Funcioanario Só Uma Empresa Pode Cadastrar Um Funcionario
 
 <div>
-    <img src="https://user-images.githubusercontent.com/89710467/138168870-27f4ef47-27ff-431f-aabe-33272d5358bc.png" />
+    <img src="https://user-images.githubusercontent.com/89710467/138170753-67f9a17d-bf64-403d-a093-6734a0bc687e.png" />
 </div>
 
 ## Como Estamos Logados Numa Conta Empresa Deletamos O Úsuario Lucas
