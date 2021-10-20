@@ -70,8 +70,8 @@
 </div>
 
 
-## Esse Eo Inicio Do Sistema De Gestão
+## Como Estamos Logados Numa Conta Empresa Deletamos O Úsuario Lucas
 
 <div>
-    <img src="https://user-images.githubusercontent.com/89710467/138160382-006142d8-90d1-4334-9a5b-44d558b3eba3.png" />
+    <img src="https://user-images.githubusercontent.com/89710467/138168870-27f4ef47-27ff-431f-aabe-33272d5358bc.png" />
 </div>
