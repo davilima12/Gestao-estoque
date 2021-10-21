@@ -9,14 +9,15 @@ use App\Http\Services\UsuarioService;
 
 class UsuarioController extends Controller
 {
-        public function index(){
+    public function index()
+    {
 
-            $usuarioService = new UsuarioService();
-
-
-         $usuarios = $usuarioService->GetAll();
+        $usuarioService = new UsuarioService();
 
 
-            return view('exibirUsuario', ['usuarios'=>$usuarios]);
-        }
+        $usuarios = $usuarioService->GetAll();
+
+
+        return view('exibirUsuario', ['usuarios' => $usuarios]);
+    }
 }
