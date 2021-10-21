@@ -32,7 +32,7 @@
             {{$errors->has('email')?$errors->first('email'): ''}}<br>
             <input type="text" value="{{old('email')}}" name="email" placeholder="email"><br>
             {{$errors->has('senha') ? $errors->first('senha') : ''}}<br>
-            <input type="password" {{old('senha')}} name="senha" placeholder="*********"><br>
+            <input type="password" value="{{old('senha')}}" name="senha" placeholder="*********"><br>
             <button type="submit">Logar</button>
         </form>
     </div>
