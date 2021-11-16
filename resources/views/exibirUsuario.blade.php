@@ -11,7 +11,7 @@
 <div class="table-responsive">
 
 
-    <table>
+    <table border="1">
         <thead>
             <tr>
               <th>nome</th>
@@ -20,7 +20,7 @@
             </tr>
          </thead>
          <tbody>
-         @foreach ($usuarios as $usuario)
+         @foreach ($usuarios  as $usuario )
              <tr>
                <td>{{$usuario->nome}}</td>
                 <td>{{$usuario->email}}</td>

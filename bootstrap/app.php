@@ -32,6 +32,13 @@ $app->singleton(
 );
 
 $app->singleton(
+    Illuminate\Contracts\Filesystem\Factory::class,
+    function ($app) {
+        return new Illuminate\Filesystem\FilesystemManager($app);
+    }
+);
+
+$app->singleton(
     Illuminate\Contracts\Console\Kernel::class,
     App\Console\Kernel::class
 );
